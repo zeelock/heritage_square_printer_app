@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "heritage_square_printer_app", "heritage_square_printer_app\heritage_square_printer_app.csproj", "{8B934E4E-51E1-4718-9D8A-D7B5999AE62E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B934E4E-51E1-4718-9D8A-D7B5999AE62E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B934E4E-51E1-4718-9D8A-D7B5999AE62E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B934E4E-51E1-4718-9D8A-D7B5999AE62E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B934E4E-51E1-4718-9D8A-D7B5999AE62E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7242A8C7-CEDF-45D9-A8D5-97D0622C7A1F}
+	EndGlobalSection
+EndGlobal
